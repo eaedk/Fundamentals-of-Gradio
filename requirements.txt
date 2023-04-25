@@ -1,0 +1,6 @@
+gradio
+gdown
+pandas 
+ydata_profiling
+scikit-learn
+tabulate
