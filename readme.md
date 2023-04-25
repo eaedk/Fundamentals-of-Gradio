@@ -69,7 +69,7 @@ To get a local copy up and running, follow these steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[ Visualize graphs to answered questions]**
+- [ ] **[ Interface using Gradio Blocks]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
