@@ -4,3 +4,5 @@ python3 -m venv venv
 source venv/bin/activate
 python -m pip install -q --upgrade pip
 python -m pip install -qr requirements.txt  
+
+gradio src/app.py
